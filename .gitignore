@@ -6,3 +6,5 @@ assets/bundles
 webpack-stats.json
 client/bundles
 package-lock.json
+.vscode
+.idea

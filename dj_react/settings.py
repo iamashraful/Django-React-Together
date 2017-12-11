@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # Thirdparty Apps
     'webpack_loader',
+    'rest_framework',
     # My Custom Apps
     'api'
 ]
