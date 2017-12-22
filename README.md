@@ -152,6 +152,7 @@ module.exports = {
 ```
 <br/>
 Edit `package.json` and save with following codes,
+
 ```json
 {
     "name": "django-react-together",
@@ -192,6 +193,7 @@ Edit `package.json` and save with following codes,
 
 ##### It's time to do something with React
 Put the following code on `src/index.js`
+
 ```jsx
 import React from 'react';
 import ReactDOM from 'react-dom';
@@ -199,8 +201,10 @@ import App from './App';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 ```
+
 <br/>
 Put the following code on `src/App.js`
+
 ```jsx
 import React, { Component } from 'react';
 
